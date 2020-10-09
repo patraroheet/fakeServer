@@ -1,0 +1,49 @@
+{
+"reminders": [
+  {
+    "title": "Open A Freelancer Account",
+    "asignee": ["575868669969", "786867868686"],
+    "subtask": [
+      {
+        "title": "Open",
+        "status": "pending"
+      }
+    ],
+    "tags": ["important"],
+    "status": "pending",
+    "createdBy": "uytutu78y9u0000u0",
+    "duedate": "2020-12-06: 4:00",
+    "createdAt": "2020-12-06: 4:00"
+  },
+  {
+    "title": "Close A Freelancer Account",
+    "asignee": ["575868669970", "786867868687"],
+    "subtask": [
+      {
+        "title": "Close",
+        "status": "pending"
+      }
+    ],
+    "tags": ["important"],
+    "status": "pending",
+    "createdBy": "uytutu78y9u0000u1",
+    "duedate": "2020-12-06: 4:00",
+    "createdAt": "2020-12-06: 4:00"
+  },
+  {
+    "title": "Modify A Freelancer Account",
+    "asignee": ["575868669971", "786867868688"],
+    "subtask": [
+      {
+        "title": "Modify",
+        "status": "pending"
+      }
+    ],
+    "tags": ["important"],
+    "status": "pending",
+    "createdBy": "uytutu78y9u0000u2",
+    "duedate": "2020-12-06: 4:00",
+    "createdAt": "2020-12-06: 4:00"
+  }
+]
+}
